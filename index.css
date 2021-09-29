@@ -13,8 +13,7 @@ h1{
     top: -2%;
     left: 0%;
     margin-top: 5px;
-    padding: 0px;
-    
+    padding: 0px; 
 }
 
 #top-left-logo img{
@@ -176,7 +175,7 @@ p{
     .slideshow-container {
         max-width: 100%;
         position: relative;
-        padding-top: 300px;
+        padding-top: 350px;
       }
 
       #top-left-logo{
@@ -190,10 +189,9 @@ p{
       #mySlides4{
         max-width: 100%;
         position: relative;
-        padding-top: 400px;
+        padding-top: 600px;
       }
-    
-    
+
       h1{
           font-size: 100px;
       }
@@ -203,18 +201,17 @@ p{
       }
 
 }
-
 @media screen and (min-width: 768px) {
     .slideshow-container {
         max-width: 100%;
         position: relative;
-        padding-top: 200px;
+        padding-top: 300px;
       }
 
       #mySlides4{
         max-width: 100%;
         position: relative;
-        padding-top: 250px;
+        padding-top: 600px;
       }
 }
 
@@ -222,13 +219,13 @@ p{
     .slideshow-container {
         max-width: 100%;
         position: relative;
-        padding-top: 10px;
+        padding-top: 200px;
       }
 
       #mySlides4{
         max-width: 100%;
         position: relative;
-        padding-top: 200px;
+        padding-top: 500px;
       }
 
 }
@@ -237,13 +234,13 @@ p{
     .slideshow-container {
         max-width: 100%;
         position: relative;
-        padding-top: 10px;
+        padding-top: 100px;
       }
 
       #mySlides4{
         max-width: 100%;
         position: relative;
-        padding-top: 200px;
+        padding-top: 500px;
       }
 
 }
