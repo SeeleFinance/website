@@ -181,7 +181,7 @@ p{
 
       #top-left-logo{
         position: fixed;
-        top: -3%;
+        top: -1%;
         left: 0%;
         margin-top: 5px;
         padding: 0px; 
@@ -191,10 +191,6 @@ p{
         max-width: 100%;
         position: relative;
         padding-top: 300px;
-      }
-
-      p{
-          font-size: 30px;
       }
 
 }
