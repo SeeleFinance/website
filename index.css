@@ -205,6 +205,12 @@ p{
         padding-top: 600px;
       }
 
+      #mySlides3{
+        max-width: 100%;
+        position: relative;
+        padding-top: 300px;
+      }
+
       h1{
           font-size: 100px;
       }
@@ -226,6 +232,12 @@ p{
         position: relative;
         padding-top: 600px;
       }
+
+      #mySlides3{
+        max-width: 100%;
+        position: relative;
+        padding-top: 100px;
+      }
 }
 
 @media screen and (min-width: 1024px) {
@@ -241,6 +253,12 @@ p{
         padding-top: 500px;
       }
 
+      #mySlides3{
+        max-width: 100%;
+        position: relative;
+        padding-top: 100px;
+      }
+
 }
 
 @media screen and (min-width: 1200px) {
@@ -254,6 +272,12 @@ p{
         max-width: 100%;
         position: relative;
         padding-top: 500px;
+      }
+
+      #mySlides3{
+        max-width: 100%;
+        position: relative;
+        padding-top: 100px;
       }
 
 }
