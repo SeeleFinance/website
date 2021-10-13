@@ -69,8 +69,10 @@ li {
 
 #center-panel{
     width: 100vw;
-    position: fixed;
+    height: auto;
+    position: relative;
     left: 50vw;
+    top: 0;
     margin-left: -200px;
     text-align: center;
     animation: centerColorChange 5s infinite ease-in-out;
@@ -91,10 +93,9 @@ li {
 /* Slideshow container */
 .slideshow-container {
   width: 100vw;
-  height: 100vh;
+  height: 50vh;
   position: relative;
   margin: auto;
-  margin-top: -10%;
 }
 
 
