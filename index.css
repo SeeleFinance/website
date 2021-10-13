@@ -59,6 +59,7 @@ li {
 
 .mySlides{
     display: none;
+    width: 100vw;
 }
 
 #mySlides0{
@@ -67,8 +68,8 @@ li {
 
 
 #center-panel{
-    width:500px;
-    height:500px;
+    width: 100vw;
+    height: 100vh;
     position: fixed;
     top: 30%;
     left: 50vw;
@@ -92,10 +93,11 @@ li {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  width: 100vw;
+  height: 100vh;
   position: relative;
   margin: auto;
-  margin-top: 30%;
+  margin-top: -10%;
 }
 
 
@@ -185,7 +187,7 @@ p{
 
 
 @media screen and (min-width: 480px) {
-    .slideshow-container {
+    /* .slideshow-container {
         max-width: 100%;
         position: relative;
         padding-top: 350px;
@@ -197,19 +199,19 @@ p{
         left: 0%;
         margin-top: 5px;
         padding: 0px; 
-    }
+    } */
 
-      #mySlides4{
+      /* #mySlides4{
         max-width: 100%;
         position: relative;
         padding-top: 600px;
-      }
+      } */
 
-      #mySlides3{
+      /* #mySlides3{
         max-width: 100%;
         position: relative;
         padding-top: 300px;
-      }
+      } */
 
       h1{
           font-size: 100px;
@@ -221,64 +223,64 @@ p{
 
 }
 @media screen and (min-width: 768px) {
-    .slideshow-container {
+    /* .slideshow-container {
         max-width: 100%;
         position: relative;
         padding-top: 300px;
-      }
+      } */
 
-      #mySlides4{
+      /* #mySlides4{
         max-width: 100%;
         position: relative;
         padding-top: 600px;
-      }
-
+      } */
+/* 
       #mySlides3{
         max-width: 100%;
         position: relative;
         padding-top: 100px;
-      }
+      } */
 }
 
 @media screen and (min-width: 1024px) {
-    .slideshow-container {
+    /* .slideshow-container {
         max-width: 100%;
         position: relative;
         padding-top: 200px;
-      }
+      } */
 
-      #mySlides4{
+      /* #mySlides4{
         max-width: 100%;
         position: relative;
         padding-top: 500px;
-      }
+      } */
 
-      #mySlides3{
+      /* #mySlides3{
         max-width: 100%;
         position: relative;
         padding-top: 100px;
-      }
+      } */
 
 }
 
 @media screen and (min-width: 1200px) {
-    .slideshow-container {
+    /* .slideshow-container {
         max-width: 100%;
         position: relative;
         padding-top: 100px;
-      }
+      } */
 
-      #mySlides4{
+      /* #mySlides4{
         max-width: 100%;
         position: relative;
         padding-top: 500px;
-      }
+      } */
 
-      #mySlides3{
+      /* #mySlides3{
         max-width: 100%;
         position: relative;
         padding-top: 100px;
-      }
+      } */
 
 }
 
