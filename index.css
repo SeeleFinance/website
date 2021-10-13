@@ -146,8 +146,8 @@ li {
 /* The dots/bullets/indicators */
 .dot {
   cursor: pointer;
-  height: 15px;
-  width: 15px;
+  height: 55px;
+  width: 55px;
   margin: 0 2px;
   background-color: #bbb;
   border-radius: 50%;
